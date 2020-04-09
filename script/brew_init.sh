@@ -19,6 +19,7 @@ brew cask install postman
 
 brew cask install spotify
 brew cask install notion
+brew cask install discord
 
 brew cask install cheatsheet
 
